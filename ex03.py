@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 print "I will now count my chickens:"
 print "Hens", 25 + 30 / 6
 # %: modulo 
@@ -23,3 +25,4 @@ print "It is less or equal?", 5 <= -2
 
 #potencia:
 print "2**3 : ", 2**3 
+print "16**1/2 : ", 16**(1.0/2) 
